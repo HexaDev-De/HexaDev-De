@@ -1,24 +1,23 @@
-**Hi there**, *I'm HexaDev 👋*, a passionate and driven ***web developer 💻*** with a focus on creating innovative and functional web applications. Specializing in front-end development 🌐 **using technologies like HTML, CSS, JavaScript, and Python 🐍**, I’m always committed to continuous learning 📚 and staying ahead with the latest advancements in the tech world 🚀.
+# Hi, I'm HexaDev 👋
 
-Currently, I’m expanding my expertise in ***web development and bug fixing services 🐞***, aiming to provide high-quality solutions for __small businesses 🏢 and beginner developers 👨‍💻__. I excel at identifying and resolving **technical challenges 🛠️**, ensuring smooth and efficient **user experiences ✨**.
+## About Me
+I'm a passionate web developer focused on front-end technologies. I love building clean, user-friendly web applications and continuously learning new skills.
 
-I’m actively seeking ___collaboration opportunities 🤝___ in **open-source projects** 🌍 and *professional tech development*. Whether working on personal projects 🎯 or client-driven tasks 📈, I blend **creativity 🎨 with problem-solving 🔍** to deliver impactful and well-crafted results 🌟.
-<!---
-HexaDev-De/HexaDev-De is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I Do
+- Web Development 💻
+- Bug Fixing Services 🐞
+- Open Source Contributions 🌍
 
-<!--
-**HexaDev-De/HexaDev-De** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- HTML, CSS, JavaScript 🌐
+- Python 🐍
+- Web Design & Development 🎨
 
-Here are some ideas to get you started:
+## Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/yourname)
+- [Personal Website](https://yourwebsite.com)
+- [Twitter](https://twitter.com/yourhandle)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [Project 1](https://github.com/HexaDev/project1)
+- [Project 2](https://github.com/HexaDev/project2)
