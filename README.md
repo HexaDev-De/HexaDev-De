@@ -50,6 +50,47 @@ When I’m not coding, you can find me experimenting with **game development** u
 - Developed a **task management web app** with **React** and **Node.js** 🚀.
 - Published a **game development tutorial** for beginners using **Godot** 🎮.
 
+## Projects
+
+### 1. **PixelForge**
+A web app designed for creative project management. It helps users organize their digital designs and ideas efficiently.
+- **Tech stack**: HTML, CSS, JavaScript.
+- [View on GitHub](https://github.com/yourusername/pixelforge)
+- [View The WebSite](https://hexadev-de.github.io/PixelForge/)
+
+### 2. **Wikipedia-Searcher**
+A simple web app that allows users to search Wikipedia and display the search results dynamically.
+- **Tech stack**: HTML, CSS, JavaScript, Wikipedia API.
+- [View on GitHub](https://github.com/yourusername/wikipedia-searcher)
+- [View The WebSite Version 1](https://hexadev-de.github.io/Wikipedia-Searcher/)
+- [View The WebSite Version 2](https://hexadev-de.github.io/Wikipedia-Searcher2/)
+
+### 3. **TaskFlow**
+A to-do list web app designed to help users manage tasks and stay on track.
+- **Tech stack**: HTML, CSS, JavaScript, LocalStorage
+- [View on GitHub](https://github.com/yourusername/taskflow)
+- [View The WebSite](https://hexadev-de.github.io/Wikipedia-Searcher2/)
+
+### 4. **PhonkFlow**
+An online music player that lets users play, pause, and manage their music collection.
+- **Tech stack**: HTML, CSS, JavaScript
+- [View on GitHub](https://hexadev-de.github.io/PhonkFlow/)
+- [View The WebSite](https://hexadev-de.github.io/PhonkFlow/)
+
+### 5. **McLaren Website**
+A personal project focused on showcasing information, history, and events related to the McLaren brand.
+- **Tech stack**: HTML, CSS, JavaScript
+- [View on GitHub](https://github.com/yourusername/mclaren-website)
+- [View The WebSite](Coming Soon...)
+
+### 6. **HexaDev Web Portfolio**
+A personal portfolio website that displays my skills, projects, and contact information.
+- **Tech stack**: HTML, CSS.
+- [View on GitHub](https://github.com/yourusername/hexadev-portfolio)
+- [View The WebSite](https://hexadev-de.github.io/BuildWave/)
+
+---
+
 ## 📊 GitHub Statistics
 
 | **Metric**                     | **Value**                     |
@@ -74,10 +115,6 @@ When I’m not coding, you can find me experimenting with **game development** u
 - [LinkedIn](https://www.linkedin.com/in/yourname) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 - [Personal Website](https://hexadev-de.github.io/BuildWave/) ![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)
 - [Twitter](https://twitter.com/yourhandle) ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-
-## Current Projects
-- [PixelForge](https://hexadev-de.github.io/PixelForge/) ![Project 1](https://img.shields.io/badge/Project-000000?style=for-the-badge&logo=git&logoColor=white)
-- [Wikipedia-Searcher](https://hexadev-de.github.io/Wikipedia-Searcher2/) ![Project 2](https://img.shields.io/badge/Project-000000?style=for-the-badge&logo=git&logoColor=white)
 
 ## Fun Fact 😄
 I love learning new programming languages and diving deep into **game mechanics** and **artificial intelligence** for games. Outside of coding, I enjoy playing strategy games 🎮 and keeping up with the latest tech trends 📱.
