@@ -122,11 +122,11 @@ I love learning new programming languages and diving deep into **game mechanics*
 ## Let's Build Something Awesome Together! 🚀
 If you’re looking for a developer who blends **creativity** with **technical expertise**, I’d love to collaborate! Feel free to reach out for **collaborations**, **consulting**, or just to chat about exciting **tech projects**. Let’s create something amazing! 🌟
 
-### 📅 Future Plans
+## 📅 Future Plans
 1. Launch a social media application.
-1. Launch a application like "discord".
 2. Create engaging YouTube content about programming.
 3. Develop a professionel portfolio website showcasing my level.
+4. Develop a professionel website showcasing company's or anything.
 
 ## Goals for 2025 🎯
 - Focus on building a **professional portfolio** to showcase my skills and projects.
