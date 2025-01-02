@@ -50,7 +50,7 @@ When I’m not coding, you can find me experimenting with **game development** u
 - Developed a **task management web app** with **React** and **Node.js** 🚀.
 - Published a **game development tutorial** for beginners using **Godot** 🎮.
 
-## Projects
+## My Current Projects
 
 ### 1. **PixelForge**
 A web app designed for creative project management. It helps users organize their digital designs and ideas efficiently.
@@ -69,7 +69,7 @@ A simple web app that allows users to search Wikipedia and display the search re
 A to-do list web app designed to help users manage tasks and stay on track.
 - **Tech stack**: HTML, CSS, JavaScript, LocalStorage
 - [View on GitHub](https://github.com/yourusername/taskflow)
-- [View The WebSite](https://hexadev-de.github.io/Wikipedia-Searcher2/)
+- [View The WebSite](https://hexadev-de.github.io/CheckMate/)
 
 ### 4. **PhonkFlow**
 An online music player that lets users play, pause, and manage their music collection.
