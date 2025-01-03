@@ -119,7 +119,7 @@ A personal portfolio website that displays my skills, projects, and contact info
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HexaDev&layout=compact&theme=radical)
 
 #### Profile Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HexaDev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HexaDev-De&show_icons=true&theme=radical)
 
 ---
 
