@@ -89,7 +89,7 @@ An online music player that lets users play, pause, and manage their music colle
 A personal project focused on showcasing information, history, and events related to the McLaren brand.
 - **Tech stack**: HTML, CSS, JavaScript
 - [View on GitHub](https://github.com/yourusername/mclaren-website)
-- [View The WebSite](Coming Soon...)
+- [View The WebSite]( https://hexadev-de.github.io/McLAREN-Web/)
 
 ### 6. **HexaDev Web Portfolio**
 A personal portfolio website that displays my skills, projects, and contact information.
@@ -104,7 +104,7 @@ A personal portfolio website that displays my skills, projects, and contact info
 | **Metric**                     | **Value**                     |
 |--------------------------------|--------------------------------|
 | 🖥️ **Total Repositories**     | 7+ (Web Tools, Apps, etc.)    |
-| 🌟 **Stars Received**         | +7                          |
+| 🌟 **Stars Received**         | +                     |
 | 🍴 **Forks Received**         | +3                         |
 | 🛠️ **Lines of Code Written**  | +40000                     |
 | 🔧 **Most Used Languages**    | Python, HTML, CSS, JavaScript |
