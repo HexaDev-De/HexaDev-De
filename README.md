@@ -104,11 +104,11 @@ A personal portfolio website that displays my skills, projects, and contact info
 | **Metric**                     | **Value**                     |
 |--------------------------------|--------------------------------|
 | 🖥️ **Total Repositories**     | 7+ (Web Tools, Apps, etc.)    |
-| 🌟 **Stars Received**         | +                     |
+| 🌟 **Stars Received**         | +53                    |
 | 🍴 **Forks Received**         | +3                         |
 | 🛠️ **Lines of Code Written**  | +40000                     |
-| 🔧 **Most Used Languages**    | Python, HTML, CSS, JavaScript |
-| 📅 **Active Days on GitHub**  | I just started in GitHub this days |
+| 🔧 **Most Used Languages**    | HTML, CSS, JavaScript |
+| 📅 **Active Days on GitHub**  | Two Weeks |
 | 🔥 **Current Streak**         | 7 days of contributions       |
 
 ---
