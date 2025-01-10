@@ -104,7 +104,7 @@ A personal portfolio website that displays my skills, projects, and contact info
 | **Metric**                     | **Value**                     |
 |--------------------------------|--------------------------------|
 | 🖥️ **Total Repositories**     | 7+ (Web Tools, Apps, etc.)    |
-| 🌟 **Stars Received**         | +61                    |
+| 🌟 **Stars Received**         | +62                    |
 | 🍴 **Forks Received**         | +3                         |
 | 🛠️ **Lines of Code Written**  | +40000                     |
 | 🔧 **Most Used Languages**    | HTML, CSS, JavaScript |
