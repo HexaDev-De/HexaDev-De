@@ -68,7 +68,7 @@ A web app designed for creative project management. It helps users organize thei
 
 ### 2. **Wikipedia-Searcher**
 A simple web app that allows users to search Wikipedia and display the search results dynamically.
-- **Tech stack**: HTML, CSS, JavaScript, Wikipedia API.
+- **Tech stack**: HTML, CSS, JavaScript.
 - [View on GitHub](https://github.com/yourusername/wikipedia-searcher)
 - [View The WebSite Version 1](https://hexadev-de.github.io/Wikipedia-Searcher/)
 - [View The WebSite Version 2](https://hexadev-de.github.io/Wikipedia-Searcher2/)
