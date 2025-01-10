@@ -131,8 +131,7 @@ I love learning new programming languages and diving deep into **game mechanics*
 ## 📅 Future Plans
 1. Launch a **social media** application.
 2. Create engaging YouTube content about programming.
-3. launch a web to .
-4. Develop a professionel website showcasing company's or anything.
+3. Develop a professionel website showcasing company's or anything.
 
 ---
 
