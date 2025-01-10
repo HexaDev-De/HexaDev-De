@@ -63,7 +63,7 @@ When I’m not coding, you can find me experimenting with **game development** u
 ### 1. **PixelForge**
 A web app designed for creative project management. It helps users organize their digital designs and ideas efficiently.
 - **Tech stack**: HTML, CSS, JavaScript.
-- [View on GitHub](https://github.com/yourusername/pixelforge)
+- [View on GitHub](https://github.com/HexaDev-De/pixelforge)
 - [View The WebSite](https://hexadev-de.github.io/PixelForge/)
 
 ### 2. **Wikipedia-Searcher**
