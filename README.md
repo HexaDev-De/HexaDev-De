@@ -150,9 +150,7 @@ If you’re looking for a developer who blends **creativity** with **technical e
 ---
 
 ## Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/yourname) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 - [Personal Website](https://hexadev-de.github.io/BuildWave/) ![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)
-- [Twitter](https://twitter.com/yourhandle) ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
 ----
 
