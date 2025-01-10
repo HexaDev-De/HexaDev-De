@@ -103,7 +103,7 @@ A personal portfolio website that displays my skills, projects, and contact info
 
 | **Metric**                     | **Value**                     |
 |--------------------------------|--------------------------------|
-| 🖥️ **Total Repositories**     | 7+ (Web Tools, Apps, etc.)    |
+| 🖥️ **Total Repositories**     | 7+ (Web Tools, Web Apps, etc.)    |
 | 🌟 **Stars Received**         | +63                    |
 | 🍴 **Forks Received**         | +3                         |
 | 🛠️ **Lines of Code Written**  | +40000                     |
